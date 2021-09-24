@@ -1,0 +1,16 @@
+.contentWrapper {
+  flex-direction: column;
+  background-color: #506D84;
+  height: 150vh;
+  width: 100%;
+  display: flex;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+  

@@ -1,0 +1,51 @@
+{
+    "data":[
+   {
+     "judul": "FIFA 2022",
+     "pub": "Electronic Arts",
+     "gambar": "https://pbs.twimg.com/media/E53ZZweXMAIaQT3.jpg",
+     "harga": "Rp860.000"
+   },
+   {
+       "judul": "F1 2021",
+       "pub": "Codemasters",
+       "gambar": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/F1_2021_cover_art.jpg/220px-F1_2021_cover_art.jpg",
+       "harga": "Rp950.000"
+     },
+     {
+       "judul": "GTA V",
+       "pub": "Rockstar Games",
+       "gambar": "http://media.rockstargames.com/rockstargames/img/global/news/upload/actual_1364906194.jpg",
+       "harga": "Rp450.000"
+     },
+     {
+       "judul": "Forza Horizon 4",
+       "pub": "Playground Games",
+       "gambar": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Forza_Horizon_4_cover.jpg/220px-Forza_Horizon_4_cover.jpg",
+       "harga": "Rp870.000"
+     },
+     {
+       "judul": "WRC 9",
+       "pub": "Nacon",
+       "gambar": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/WRC_9_cover_art.jpg/220px-WRC_9_cover_art.jpg",
+       "harga": "Rp690.000"
+     },
+     {
+       "judul": "Dinasty Warriors 9",
+       "pub": "Koei Tecmo",
+       "gambar": "https://www.mobygames.com/images/covers/l/457248-dynasty-warriors-9-xbox-one-front-cover.jpg",
+       "harga": "Rp1.399.000"
+     },
+     {
+        "judul": "The Witcher: Wild Hunt",
+        "pub": "CD Projekt Rekt",
+        "gambar": "https://lh3.googleusercontent.com/proxy/zLYZKwBzlWNYvBHEWZ3tzpgrhsJtJootgxS7tglKBEssX3dih6iDqc0RxI1AfKp5SINmv4LlvV-eZKxb_uJmUAwg0l55lQfEgSQVv73rirSdeH2oL621OIo",
+        "harga": "Rp670.000"
+      },
+      {
+        "judul": "Dragon Age: Inquisition",
+        "pub": "Electronic Arts",
+        "gambar": "https://external-preview.redd.it/Pw3y0tvhq5ZMcLJv1BZmW3B9oqtLCgJldTSZi5gHpyU.jpg?auto=webp&s=b1bcb71140119f290a7f944cecf1e1dddbf639f4",
+        "harga": "Rp470.000"
+      }
+ ] }
